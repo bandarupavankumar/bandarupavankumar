@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**bandarupavankumar/bandarupavankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+I'm Pavan, a Full Stack Developer passionate about building clean, scalable, and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ I work with React, Next.js, Node.js, MongoDB, and modern UI libraries.
+
+🤖 I use AI tools like ChatGPT, GitHub Copilot, Cursor, and Vercel AI SDK to speed up development.
+
+🚀 Currently learning advanced frontend animations, backend scalability, and AI integrations.
+
+💬 I enjoy creating apps that solve real problems and improve productivity.
+
+📫 Reach me anytime on GitHub or email.

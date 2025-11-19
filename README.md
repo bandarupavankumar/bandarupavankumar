@@ -1,26 +1,42 @@
-## Hi there 👋
+Hi there 👋
+I'm Pavan, a Full Stack Developer passionate about building clean, scalable, and user-friendly applications.
+🔧 What I Work With
 
-I’m **Pavan**, a Full-Stack Developer. Here’s a quick step-by-step about me:
-   - Full-Stack Developer focused on clean, scalable, and user-friendly applications.
+React, Next.js, Node.js
 
-2. **What I work with**  
-   - Frontend: React, Next.js, modern UI libraries.  
-   - Backend: Node.js, MongoDB.
+MongoDB & SQL
 
-3. **AI & Productivity tools I use**  
-   - ChatGPT, GitHub Copilot, Cursor, Vercel AI SDK.
+Modern UI libraries and component systems
 
-4. **What I’m currently building / learning**  
-   - Building: Full-Stack E-Commerce (Next.js + MongoDB + Zustand).  
-   - Learning: advanced frontend animations, backend scalability, and AI integrations.
+🤖 AI Tools I Use
 
-5. **What I enjoy**  
-   - Creating apps that solve real problems and make everyday tasks easier.
+ChatGPT
 
-6. **How to reach me**  
-   - Email: **Mrpavankumar234@gmail.com**  
-   - GitHub: https://github.com/bandarupavankumar
+GitHub Copilot
 
----
+Cursor
 
-> 🔗 *Open to collaborations and job opportunities — feel free to reach out!*
+Vercel AI SDK
+These tools help me speed up development and boost productivity.
+
+🚀 What I'm Learning
+
+Advanced frontend animations
+
+Backend scalability
+
+AI integrations in modern applications
+
+💬 What I Love Building
+
+Apps that solve real problems
+
+Tools that make everyday tasks easier
+
+Clean and optimized user experiences
+
+📫 How to Reach Me
+
+Email: Mrpavankumar234@gmail.com
+
+GitHub: You're already here 🙂

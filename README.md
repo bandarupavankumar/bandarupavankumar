@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 I’m **Pavan**, a Full-Stack Developer. Here’s a quick step-by-step about me:
-
-1. **Who I am**  
    - Full-Stack Developer focused on clean, scalable, and user-friendly applications.
 
 2. **What I work with**  
